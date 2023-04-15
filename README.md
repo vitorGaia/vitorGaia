@@ -8,6 +8,8 @@
 </div>
 <br/>
 
+![Snake animation](https://github.com/vitorGaia/vitorGaia/blob/output/github-contribution-grid-snake.svg)
+
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorGaia&theme=gotham)
 
 <div align="center">  
