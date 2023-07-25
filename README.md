@@ -31,12 +31,6 @@ Quer ver meu principais projetos em ação? Este é meu [Portfólio](https://vit
 ![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=2300f)
 
-### Ferramentas
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
-
 ### Outras Habilidades
 ![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=violet)
 ![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=green)
@@ -45,6 +39,13 @@ Quer ver meu principais projetos em ação? Este é meu [Portfólio](https://vit
 ![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=Sequelize&logoColor=52B0E7)
 ![Mocha](https://img.shields.io/badge/-mocha-%230D1117?style=for-the-badge&logo=mocha&logoColor=8D6748)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%230D1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=black)
+
+### Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
   
 ### Estou Aprendendo
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)
