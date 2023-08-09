@@ -1,5 +1,5 @@
 # Sobre Mim
-Bem-vindo ao meu GitHub! Estou no terceiro semestre do curso de Engenharia de Software na [Unifatecie](https://unifatecie.edu.br/site/) 📚, além de estar aprofundando meus conhecimentos em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 💻.
+Bem-vindo ao meu GitHub! Estou cursando Engenharia de Software na [Unifatecie](https://unifatecie.edu.br/site/) 📚, além de estar aprofundando meus conhecimentos em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) 💻.
 
 Estou animado e determinado a conquistar minha primeira oportunidade no campo da tecnologia. Acredito que minha dedicação e entusiasmo permitirão que eu contribua significativamente em equipes de tecnologia, ao mesmo tempo em que continuo aprendendo e crescendo nesse empolgante universo 🚀.
 
