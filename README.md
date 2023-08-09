@@ -18,7 +18,7 @@ Quer ver meu principais projetos em ação? Este é meu [Portfólio](https://vit
   <img
     loading="lazy"
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorGaia&hide_progress=true&theme=aura_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura_dark"
   />
 </div>
 
