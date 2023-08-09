@@ -10,9 +10,16 @@ Quer ver meu principais projetos em ação? Este é meu [Portfólio](https://vit
 <br/>
 
 <div align="center">
-  <a href="https://github.com/seu-usuário-aqui">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorGaia&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorGaia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img
+    loading="lazy"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=vitorGaia&theme=aura_dark&show_icons=true"
+  />
+  <img
+    loading="lazy"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorGaia&hide_progress=true&theme=aura_dark"
+  />
 </div>
 
 <br/>
